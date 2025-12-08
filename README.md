@@ -1,4 +1,4 @@
-<img width="1232" height="700" alt="newplot (2)" src="https://github.com/user-attachments/assets/3cb457c9-ad69-41ad-abaa-d27ef1562f1d" /># Bogotá Air Quality Forecasting
+# Bogotá Air Quality Forecasting
 
 This repository contains a comprehensive study and implementation of time-series forecasting models to predict daily **Fine Particulate Matter (PM2.5)** levels in Bogotá, Colombia, with a 7-day horizon.
 
@@ -76,7 +76,6 @@ We evaluated naive models (Drift, Naive, Seasonal Naive, SMA).
 * **Benchmark RMSE:** **8.04 µg/m³** (This is the score subsequent phases aim to beat).
 
 ### 5. Results
-
 <img width="1244" height="900" alt="newplot" src="https://github.com/user-attachments/assets/65825eff-0747-4cc2-9384-227bbb0b0aa6" />
 
 <img width="1244" height="900" alt="newplot (1)" src="https://github.com/user-attachments/assets/c760a314-5d4c-4ac6-9333-1f7bd4ae3a73" />
