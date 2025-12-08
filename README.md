@@ -1,5 +1,7 @@
 # Bogotá Air Quality Forecasting
 
+<img width="2752" height="1536" alt="Gemini_Generated_Image_u5ipq1u5ipq1u5ip" src="https://github.com/user-attachments/assets/ed88c379-87c4-496e-b4fd-eb38d4bccfea" />
+
 This repository contains a comprehensive study and implementation of time-series forecasting models to predict daily **Fine Particulate Matter (PM2.5)** levels in Bogotá, Colombia, with a 7-day horizon.
 
 The project evolves through **three distinct phases**, moving from rigorous exploratory analysis to classical machine learning benchmarks, and finally, to **State-of-the-Art (SOTA)** deep learning architectures. The goal is to build a reliable forecasting system crucial for public health warnings and environmental policy.
