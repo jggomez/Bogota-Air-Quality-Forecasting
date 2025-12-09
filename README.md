@@ -10,6 +10,11 @@ The project evolves through **three distinct phases**, moving from rigorous expl
 - Alejandra Valle Fernandez
 - [Juan Guillermo Gómez](https://www.linkedin.com/in/jggomezt/)
 
+**Notebooks**
+- [Phase 1: EDA, Stationarity & Baselines](https://colab.research.google.com/drive/15sAmOpCAspJA7G9L7TKSHTctNotpIN1H?usp=sharing)
+- [Phase 2: Statistical & Traditional ML Benchmark](https://colab.research.google.com/drive/15sAmOpCAspJA7G9L7TKSHTctNotpIN1H?usp=sharing)
+- [Phase 3: SOTA Deep Learning Architectures](https://colab.research.google.com/drive/1Sjr3jShCTKCmkEPlts7CACEmw21OsyTv?usp=sharing)
+
 ---
 
 ## 📂 Project Phases Overview
